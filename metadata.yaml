@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5661'
     url: http://www.gutenberg.org/2009/agents/5661
     wikipedia: https://en.wikipedia.org/wiki/Richard_James_Horatio_Gottheil
+covers:
+- cover_type: archival
+  image_path: 70744-h/images/cover.jpg
 creator:
   author:
     agent_name: Snouck Hurgronje, C. (Christiaan)
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Christiaan_Snouck_Hurgronje
     - https://nl.wikipedia.org/wiki/Christiaan_Snouck_Hurgronje
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70744#The-revolt-in-Arabia
 gutenberg_issued: '2023-05-12'
 identifiers:
   gutenberg: '70744'
